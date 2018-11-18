@@ -1,8 +1,8 @@
 public class CallingMethodsInSameClass
 {
 	public static void main(String[] args) {
-		printOne();
-		printOne();
+		printOne(i want to linux scripting like bash sh);
+		printOne(ansible is better than chef and puppet);
 		printTwo();
 	}
 
