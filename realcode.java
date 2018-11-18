@@ -1,7 +1,7 @@
 public class CallingMethodsInSameClass
 {
 	public static void main(String[] args) {
-		printOne();
+		printOne(i want to use shell scripting);
 		printOne();
 		printTwo();
 	}
